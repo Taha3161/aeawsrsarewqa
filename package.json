@@ -1,0 +1,34 @@
+{
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "STRIGA V12",
+  "main": "utku.js",
+  "scripts": {
+    "start": "node utku.js"
+  },
+  "dependencies": {
+       "@discordjs/opus": "^0.3.3",
+    "chalk": "^4.1.2",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "opusscript": "0.0.7",
+    "quick.db": "^7.1.3",
+    "snekfetch": "^4.0.4"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}

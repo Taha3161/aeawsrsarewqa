@@ -1,0 +1,45 @@
+{
+    "BotSettings": {
+        "token": "MTA2OTc2NzA1OTAyNzgwNDIxMA.G5CshN.si39KTEH0mQM2SPc6_ryU_ZAum1CGczMquTw4Y",
+        "owner": "1014235858406232185",
+        "prefix": "!",
+        "botStatus": "Sarkozy ♥ Nesq",
+        "botVoiceChannelID": "842055695109062717"
+    },
+    "Roles": {
+        "BoyRole1": "1069756203510550668",
+        "BoyRole2": "",
+        "GirlRole1": "843460030611062794",
+        "GirlRole2": "",
+        "Unregister": "842068012282019881",
+        "Registerer": "842081048430903296",
+        "TagRole": "843200019934347305",
+        "Suspicious": "",
+        "Jail": ""
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerName": "Nesq",
+            "ServerID": "842053145961168916",
+            "Tag": "২",
+            "UnTag": "২"
+    },
+        "Channels": {
+            "RegisterChat": "965266198768001084",
+            "TagLog": "1069755474691502100",
+            "Rules": "842061566802526219",
+            "GeneralChat": "1068305586455838790"
+        },
+        "Welcome": {
+            "WelcomeChat": "965266198768001084",
+            "WelcomeName": "২ İsim • Yaş"
+        }
+}
